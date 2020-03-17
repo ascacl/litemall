@@ -39,8 +39,8 @@ litemall:
   wx:
     app-id: wxc19000643790c79c
     app-secret: 96844be7d7d16acc24082831b3de2595
-    mch-id: 111111
-    mch-key: xxxxxx
+    mch-id: 1578022011
+    mch-key: 11223344556677889988776655443322
     notify-url: https://www.wofu.info/wx/order/pay-back
     # 商户证书文件路径
     # 请参考“商户证书”一节 https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=4_3
