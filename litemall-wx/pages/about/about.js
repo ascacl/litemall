@@ -10,12 +10,12 @@ Page({
    * 页面的初始数据
    */
   data: {
-    name: 'litemall',
-    address: 'https://github.com/linlinjava/litemall',
+    name: '沃福小程序商城',
+    address: '上海',
     latitude: '31.201900',
     longitude: '121.587839',
     phone: '021-xxxx-xxxx',
-    qq: '705144434'
+    qq: '21743956'
   },
 
   /**

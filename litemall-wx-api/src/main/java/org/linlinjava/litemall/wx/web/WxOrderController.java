@@ -112,7 +112,7 @@ public class WxOrderController {
      * @param response 响应内容
      * @return 操作结果
      */
-    @PostMapping("pay-notify")
+    @PostMapping("pay-back")
     public Object payNotify(HttpServletRequest request, HttpServletResponse response) {
         return wxOrderService.payNotify(request, response);
     }
